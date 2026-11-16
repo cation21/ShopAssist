@@ -98,3 +98,10 @@ This project is developed and maintained by [muditmehta07](https://github.com/sp
 Licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. Read full [LICENSE](https://github.com/muditmehta07/ShopAssist/blob/main/LICENSE).
 > [!WARNING]
 > Under the terms of the AGPL-3.0, any modifications or use of this software in a network service must be made available under the same license. For commercial licensing, proprietary integrations, or partnerships, please contact [here](mailto:muditmehta27@outlook.com).
+
+## Publication & Credits
+
+This project is linked to our IEEE Xplore publication: [Robust Robot Localization and Mapping in Challenging Spaces via Thermal-LiDAR Fusion](https://ieeexplore.ieee.org/document/11517933). While the paper explores Thermal-LiDAR sensor fusion, this repository implements the core autonomous shopping cart software and system logic.
+
+* **Project and Publication:** Ananya Pandey, Unmona Das
+* **Faculty Supervision:** Dr. Sunil Pathak (HOD, Amity School of Engineering & Technology, Amity University, Jaipur, Rajasthan)
