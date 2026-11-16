@@ -104,4 +104,4 @@ Licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. Read f
 This project is linked to our IEEE Xplore publication: [Robust Robot Localization and Mapping in Challenging Spaces via Thermal-LiDAR Fusion](https://ieeexplore.ieee.org/document/11517933). While the paper explores Thermal-LiDAR sensor fusion, this repository implements the core autonomous shopping cart software and system logic.
 
 * **Project and Publication:** Ananya Pandey, Unmona Das
-* **Faculty Supervision:** Dr. Sunil Pathak (HOD, Amity School of Engineering & Technology, Amity University, Jaipur, Rajasthan)
+* **Faculty Supervision:** Dr. Sunil Pathak (HOD, Amity School of Engineering & Technology, Amity University Rajasthan)
